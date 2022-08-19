@@ -1,8 +1,8 @@
 # sobre mim
-- 👋 olá meu nome é @buenodeisi14
-- meu email de contato é deisi.paula@escola.pr.gov.br
-- 👀 eu estou interesado em aprender a programar novas linguagens.
-- 🌱 eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
+- 👋 Olá meu nome é @buenodeisi14
+- Meu email de contato é deisi.paula@escola.pr.gov.br
+- 👀 Eu estou interesado em aprender a programar novas linguagens.
+- 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
 
 
 <!---
